@@ -8,8 +8,4 @@ This project leverages the Unsloth framework and Mistral-7B model, enhanced by t
 - Fine-tuning with the Qlora technique
 - Efficient resource usage, compatible with Google Colab's free tier
 
-## Requirements
-- Python 3.x
-- Unsloth Framework
-- Mistral-7B model
-- Hugging Face Transformers
+
